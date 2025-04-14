@@ -6,7 +6,7 @@ This is a full-stack mortgage application with the following functionalities:
 
 Create, update, delete, and retrieve mortgage records.
 Calculate a mortgage's risk score and credit rating based on certain borrower data.
-It uses FastAPI for the backend, React for the frontend, and MySQL for database storage.
+I have uses FastAPI for the backend, React for the frontend, and MySQL for database storage.
 
 > **Backend Setup**
 
@@ -110,4 +110,3 @@ To run the backend tests, execute the following command in your terminal: pytest
 Additional Notes:
 Ensure you have MySQL installed and running locally.
 You can adjust database credentials and API secrets through the .env file.
-Be sure to configure CORS correctly in the frontend and backend to allow communication between them.
